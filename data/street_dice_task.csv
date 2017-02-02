@@ -1,0 +1,186 @@
+"","code","question.order","dice.removal","JuID"
+"1","Hfrd1","height first","removed dice before 1st task",1
+"2","Hfkd","height first","kept dice",2
+"3","Hfkd","height first","kept dice",3
+"4","Hfrd1","height first","removed dice before 1st task",4
+"5","Hfkd","height first","kept dice",5
+"6","Hfrd2","height first","removed dice before 2nd task",6
+"7","Hfrd1","height first","removed dice before 1st task",7
+"8","Hfkd","height first","kept dice",8
+"9","Hfkd","height first","kept dice",9
+"10","Hfrd2","height first","removed dice before 2nd task",10
+"11","Hfkd","height first","kept dice",11
+"12","Hfrd1","height first","removed dice before 1st task",12
+"13","HfrdTask","height first","removed dice before 1st prompt",13
+"14","Hfkd","height first","kept dice",14
+"15","HfrdTask","height first","removed dice before 1st prompt",15
+"16","Hfrd2","height first","removed dice before 2nd task",16
+"17","Hfkd","height first","kept dice",17
+"18","Hfrd2","height first","removed dice before 2nd task",18
+"19","Hfrd1","height first","removed dice before 1st task",19
+"20","Hfkd","height first","kept dice",20
+"21","Hfkd","height first","kept dice",21
+"22","Hfkd","height first","kept dice",22
+"23","HfrdTask","height first","removed dice before 1st prompt",23
+"24","Hfkd","height first","kept dice",24
+"25","Hfrd2","height first","removed dice before 2nd task",25
+"26","Hfrd1","height first","removed dice before 1st task",26
+"27","HfrdTask","height first","removed dice before 1st prompt",27
+"28","Hfkd","height first","kept dice",28
+"29","Hfrd2","height first","removed dice before 2nd task",29
+"30","Hfrd1","height first","removed dice before 1st task",30
+"31","Hfrd2","height first","removed dice before 2nd task",31
+"32","Hfkd","height first","kept dice",32
+"33","HfrdTask","height first","removed dice before 1st prompt",33
+"34","Hfkd","height first","kept dice",34
+"35","HfrdTask","height first","removed dice before 1st prompt",35
+"36","Hfrd1","height first","removed dice before 1st task",36
+"37","Hfrd1","height first","removed dice before 1st task",37
+"38","Hfrd1","height first","removed dice before 1st task",38
+"39","Hfrd2","height first","removed dice before 2nd task",39
+"40","Sfrd1","shape first","removed dice before 1st task",40
+"41","Sfrd1","shape first","removed dice before 1st task",41
+"42","Sfrd1","shape first","removed dice before 1st task",42
+"43","Sfkd","shape first","kept dice",43
+"44","Sfrd1","shape first","removed dice before 1st task",44
+"45","Sfkd","shape first","kept dice",45
+"46","Sfrd1","shape first","removed dice before 1st task",46
+"47","Sfrd2","shape first","removed dice before 2nd task",47
+"48","Sfkd","shape first","kept dice",48
+"49","SfBut2","shape first","put dice in hand for 2nd task!",49
+"50","HfrdTask","height first","removed dice before 1st prompt",50
+"51","Sfkd","shape first","kept dice",51
+"52","Sfkd","shape first","kept dice",52
+"53","SfrdTask","shape first","removed dice before 1st prompt",53
+"54","SfBut2","shape first","put dice in hand for 2nd task!",54
+"55","SfrdTask","shape first","removed dice before 1st prompt",55
+"56","Sfkd","shape first","kept dice",56
+"57","Sfkd","shape first","kept dice",57
+"58","Hfrd1","height first","removed dice before 1st task",58
+"59","Sfrd1","shape first","removed dice before 1st task",59
+"60","SfrdTask","shape first","removed dice before 1st prompt",60
+"61","Sfrd1","shape first","removed dice before 1st task",61
+"62","Sfkd","shape first","kept dice",62
+"63","Sfkd","shape first","kept dice",63
+"64","Sfkd","shape first","kept dice",64
+"65","Sfkd","shape first","kept dice",65
+"66","Sfrd1","shape first","removed dice before 1st task",66
+"67","Sfrd1","shape first","removed dice before 1st task",67
+"68","Sfrd1","shape first","removed dice before 1st task",68
+"69","Sfkd","shape first","kept dice",69
+"70","Sfrd1","shape first","removed dice before 1st task",70
+"71","Sfkd","shape first","kept dice",71
+"72","Sfrd1","shape first","removed dice before 1st task",72
+"73","Sfrd1","shape first","removed dice before 1st task",73
+"74","Sfkd","shape first","kept dice",74
+"75","Hfkd","height first","kept dice",75
+"76","Hfkd","height first","kept dice",76
+"77","SfBut2","shape first","put dice in hand for 2nd task!",77
+"78","SfrdTask","shape first","removed dice before 1st prompt",78
+"79","SfrdTask","shape first","removed dice before 1st prompt",79
+"80","Sfrd1","shape first","removed dice before 1st task",80
+"81","Sfrd1","shape first","removed dice before 1st task",81
+"82","Sfrd1","shape first","removed dice before 1st task",82
+"83","Sfkd","shape first","kept dice",83
+"84","Hfrd1","height first","removed dice before 1st task",84
+"85","Sfkd","shape first","kept dice",85
+"86","Sfrd2","shape first","removed dice before 2nd task",86
+"87","SfrdTask","shape first","removed dice before 1st prompt",87
+"88","SfrdTask","shape first","removed dice before 1st prompt",88
+"89","SfBut2","shape first","put dice in hand for 2nd task!",89
+"90","Sfrd1","shape first","removed dice before 1st task",90
+"91","Sfkd","shape first","kept dice",91
+"92","Sfkd","shape first","kept dice",92
+"93","Hfrd2","height first","removed dice before 2nd task",93
+"94","Sfkd","shape first","kept dice",94
+"95","Hfrd1","height first","removed dice before 1st task",95
+"96","Hfkd","height first","kept dice",96
+"97","Sfkd","shape first","kept dice",97
+"98","Sfrd1","shape first","removed dice before 1st task",98
+"99","Sfrd1","shape first","removed dice before 1st task",99
+"100","SfrdTask","shape first","removed dice before 1st prompt",100
+"101","Sfkd","shape first","kept dice",101
+"102","Hfrd1","height first","removed dice before 1st task",102
+"103","Sfrd1","shape first","removed dice before 1st task",103
+"104","Sfrd1","shape first","removed dice before 1st task",104
+"105","Hfrd1","height first","removed dice before 1st task",105
+"106","Sfkd","shape first","kept dice",106
+"107","Sfkd","shape first","kept dice",107
+"108","Sfrd1","shape first","removed dice before 1st task",108
+"109","Hfkd","height first","kept dice",109
+"110","Sfrd1","shape first","removed dice before 1st task",110
+"111","Hfrd1","height first","removed dice before 1st task",111
+"112","Hfkd","height first","kept dice",112
+"113","Hfrd1","height first","removed dice before 1st task",113
+"114","Hfrd2","height first","removed dice before 2nd task",114
+"115","Sfrd1","shape first","removed dice before 1st task",115
+"116","Sfkd","shape first","kept dice",116
+"117","Hfrd1","height first","removed dice before 1st task",117
+"118","Hfrd2","height first","removed dice before 2nd task",118
+"119","Sfrd1","shape first","removed dice before 1st task",119
+"120","Hfkd","height first","kept dice",120
+"121","Sfrd1","shape first","removed dice before 1st task",121
+"122","HfrdTask","height first","removed dice before 1st prompt",122
+"123","HfrdTask","height first","removed dice before 1st prompt",123
+"124","Hfrd1","height first","removed dice before 1st task",124
+"125","Hfrd1","height first","removed dice before 1st task",125
+"126","Hfkd","height first","kept dice",126
+"127","Hfkd","height first","kept dice",127
+"128","Sfrd1","shape first","removed dice before 1st task",128
+"129","Sfrd1","shape first","removed dice before 1st task",129
+"130","Sfrd1","shape first","removed dice before 1st task",130
+"131","Sfkd","shape first","kept dice",131
+"132","Sfrd1","shape first","removed dice before 1st task",132
+"133","Sfkd","shape first","kept dice",133
+"134","Sfrd1","shape first","removed dice before 1st task",134
+"135","Hfrd1","height first","removed dice before 1st task",135
+"136","Sfkd","shape first","kept dice",136
+"137","Sfkd","shape first","kept dice",137
+"138","Sfrd1","shape first","removed dice before 1st task",138
+"139","Sfkd","shape first","kept dice",139
+"140","Sfrd1","shape first","removed dice before 1st task",140
+"141","Sfkd","shape first","kept dice",141
+"142","Sfrd1","shape first","removed dice before 1st task",142
+"143","Sfkd","shape first","kept dice",143
+"144","Sfkd","shape first","kept dice",144
+"145","Sfrd1","shape first","removed dice before 1st task",145
+"146","Sfrd1","shape first","removed dice before 1st task",146
+"147","Sfkd","shape first","kept dice",147
+"148","Sfkd","shape first","kept dice",148
+"149","Hfrd2","height first","removed dice before 2nd task",149
+"150","Sfkd","shape first","kept dice",150
+"151","Hfrd2","height first","removed dice before 2nd task",151
+"152","Sfkd","shape first","kept dice",152
+"153","SfBut2","shape first","put dice in hand for 2nd task!",153
+"154","Sfrd1","shape first","removed dice before 1st task",154
+"155","Sfkd","shape first","kept dice",155
+"156","Sfkd","shape first","kept dice",156
+"157","Sfkd","shape first","kept dice",157
+"158","Sfkd","shape first","kept dice",158
+"159","Sfkd","shape first","kept dice",159
+"160","Sfrd1","shape first","removed dice before 1st task",160
+"161","Sfrd1","shape first","removed dice before 1st task",161
+"162","Sfrd1","shape first","removed dice before 1st task",162
+"163","Hfrd2","height first","removed dice before 2nd task",163
+"164","Sfkd","shape first","kept dice",164
+"165","Sfrd1","shape first","removed dice before 1st task",165
+"166","Sfrd1","shape first","removed dice before 1st task",166
+"167","Sfrd1","shape first","removed dice before 1st task",167
+"168","SfBut2","shape first","put dice in hand for 2nd task!",168
+"169","Sfrd1","shape first","removed dice before 1st task",169
+"170","Sfrd1","shape first","removed dice before 1st task",170
+"171","Hfrd1","height first","removed dice before 1st task",171
+"172","Sfrd1","shape first","removed dice before 1st task",172
+"173","Sfkd","shape first","kept dice",173
+"174","Sfkd","shape first","kept dice",174
+"175","Sfkd","shape first","kept dice",175
+"176","Sfkd","shape first","kept dice",176
+"177","Hfrd1","height first","removed dice before 1st task",177
+"178","Sfrd1","shape first","removed dice before 1st task",178
+"179","Sfkd","shape first","kept dice",179
+"180","Hfkd","height first","kept dice",180
+"181","Sfrd1","shape first","removed dice before 1st task",181
+"182","Sfkd","shape first","kept dice",182
+"183","Sfkd","shape first","kept dice",183
+"184","Sfrd1","shape first","removed dice before 1st task",184
+"185","Hfrd2","height first","removed dice before 2nd task",185
