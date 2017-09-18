@@ -1,6 +1,7 @@
 ## Feb 1, 2017
 ## Bodo Winter
 ## Analysis of underspecification web experiment
+## Added second bout August 18, 2017
 
 ##------------------------------------------------------------------
 ## Data carpentry:
@@ -12,6 +13,8 @@ options(stringsAsFactors = F)
 
 setwd('/Users/winterb/Research/gesture_categorization/new_paper_new_analyses/data/')
 x <- dget('street_acrylic_objects.txt')
+x2 <- readLines('street_acrylic_objects_second_bout.txt')
+x <- c(x, x2)
 
 ## Explanation:
 
@@ -29,7 +32,7 @@ xdf <- data.frame(condition = sapply(splitted, function(x) x[1]),
 
 ## How many data points?
 
-nrow(xdf)    # 21
+nrow(xdf)    # 21 (now 60, now 98)
 
 
 
@@ -39,7 +42,9 @@ nrow(xdf)    # 21
 
 ## Tabulate:
 
-xtab <- table(xdf$condition, xdf$response)
+(xtab <- table(xdf$condition, xdf$response))
+round(prop.table(xtab, 1), 2)
+chisq.test(xtab)
 fisher.test(xtab)
 
 

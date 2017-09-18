@@ -36,7 +36,7 @@ table(d$question.order, d$dice.removal)
 
 ## Let's look at the subset of "removers":
 
-(xtab <- table(d$question.order,d$dice.removal)[1:2, 3:4])
+(xtab <- table(d$question.order, d$dice.removal)[1:2, 3:4])
 
 ## Or Fisher's exact test:
 
